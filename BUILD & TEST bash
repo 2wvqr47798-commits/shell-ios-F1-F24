@@ -1,0 +1,5 @@
+# If on Mac with Xcode:
+xcodebuild -scheme MacKeyboardiOS -destination 'platform=iOS Simulator,name=iPhone 15'
+
+# Or use Swift Package Manager:
+swift build
